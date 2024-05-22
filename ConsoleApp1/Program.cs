@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MaxAndMin
+namespace ConsoleApp1
 {
     public class Program
     {
