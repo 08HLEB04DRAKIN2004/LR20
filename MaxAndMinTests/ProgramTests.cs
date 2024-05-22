@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MaxAndMin;
+using ConsoleApp1;
 
-namespace MaxAndMin.Tests
+namespace ConsoleApp1.Tests
 {
     [TestClass]
     public class ProgramTests
